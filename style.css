@@ -1,0 +1,25 @@
+header img {
+width: 200px;
+
+}
+
+nav{
+text-align: center;
+}
+h1 {
+    text-align: center;
+   color:red;
+}
+ h2{
+     text-align: center;
+ }
+ p   {
+     text-align: center;
+padding: 10px;
+margin-bottom: 0vmax;
+margin: 50px;
+
+  }
+  footer {
+      text-align: center;
+  }
