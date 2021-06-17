@@ -12,14 +12,29 @@ h1 {
 }
  h2{
      text-align: center;
+     color: blue;
  }
  p   {
      text-align: center;
-padding: 10px;
-margin-bottom: 0vmax;
-margin: 50px;
+padding: 5px;
+margin-bottom:0%;
+margin: 5px;
+color:indigo;
+font-size: 25px;
 
   }
+img {
+    width: 200px;
+    height: 200px;
+    float:center;
+}
+
+
+
   footer {
       text-align: center;
   }
+  body {
+background-size: 0mm;
+background-color:khaki;
+}
